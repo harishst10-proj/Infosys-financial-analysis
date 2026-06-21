@@ -7,8 +7,8 @@ financials, built in Excel with an interactive dashboard.
 Excel — Pivot Tables, Ratio Analysis, Dashboard Design
 
 ## Key Insights
-1.Profitability is steady, but the shareholder returns is softened
-2.Balance sheet is getting tightened.
+1. Profitability is steady, but shareholder returns have softened — ROE fell 6.5% YoY despite a flat net margin.
+2. Balance sheet is getting more conservative — debt-to-equity dropped to 0.06, reflecting minimal leverage.
 
 ## Dashboard Preview
-[Infosys Dashboard] infosys-dashboard-preview.png
+![Infosys Dashboard](infosys-dashboard-preview.png)
