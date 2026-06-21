@@ -11,3 +11,4 @@ Excel — Pivot Tables, Ratio Analysis, Dashboard Design
 2.Balance sheet is getting tightened.
 
 ## Dashboard Preview
+[Infosys Dashboard] (infosys-dashboard-preview.png)
